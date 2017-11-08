@@ -10,10 +10,10 @@
 The following is the first rough draft of our overall project layout and structure. There are some changes and additions that might be possible in the future. This is only the starting point for the project.
 
 ## Login Page
-![](images/Login.jpg)
+![](images/LoginPage.jpg)
 
 ## Profile Creation
-![](images/ProfileCreate.jpg)
+![](images/ProfileCreatePage.jpg)
 
 ## Event Creation
 ![](images/EventCreate.jpg)
