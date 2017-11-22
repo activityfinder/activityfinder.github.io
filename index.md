@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [About Activity Finder](#about-activityfinder)
+* [Deployment](#deployment)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 
@@ -13,21 +14,21 @@
 # Project Mockup
 The following is the first rough draft of our overall project layout and structure. There are some changes and additions that might be possible in the future. This is only the starting point for the project.
 
-## Login Page
+# Login Page
 ![](images/LoginPage.jpg)
 
-## Profile Creation
+# Profile Creation
 ![](images/ProfileCreatePage.jpg)
 
-## Event Creation
+# Event Creation
 ![](images/EventCreate.jpg)
 
-## Activity Directory
+# Activity Directory
 ![](images/ActivityDirectory.jpg)
 
-## Activity Info
+# Activity Info
 ![](images/ActivityPage.jpg)
 
+# Deployment
 # Milestone 1
-
 # Milestone 2
