@@ -34,5 +34,5 @@ The following is the first rough draft of our overall project layout and structu
 # Development History
 
 ## Milestone 1: Mockup development
-[Milestone 1](#https://github.com/activityfinder/activityfinder/projects/1)
+Milestone 1 was implemented as a [Github project M1](https://github.com/activityfinder/activityfinder/projects/1)
 ## Milestone 2: Data model development 
