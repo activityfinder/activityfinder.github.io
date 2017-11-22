@@ -1,7 +1,11 @@
-## Goals
-- Allow UH students to find activities and events to do with others on the island.
+# Table of Contents
 
-## What It Will Provide
+* [About Activity Finder](#about-activityfinder)
+* [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
+
+# About Activity Finder
+- Allow UH students to find activities and events to do with others on the island.
 - Notifications when a new event or activity is posted.
 - Filter activities based on interests, location, etc.
 - View future events or activites on a calendar.
@@ -23,3 +27,7 @@ The following is the first rough draft of our overall project layout and structu
 
 ## Activity Info
 ![](images/ActivityPage.jpg)
+
+# Milestone 1
+
+# Milestone 2
