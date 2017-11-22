@@ -9,23 +9,25 @@
 # About Activity Finder
 Activity Finder is a meteor application allowing UH students to find activities and events to do with others on the island. Students will be able to set notifications when a new event or activity is posted. Students can filter activites based upon their interests or location. Students will also be able to view future events or activites on a calendar.
 
-# Project Mockup
+## Project Mockup
 The following is the first rough draft of our overall project layout and structure. There are some changes and additions that might be possible in the future. This is only the starting point for the project.
 
-# Login Page
+### Login Page
 ![](images/LoginPage.jpg)
 
-# Profile Creation
+### Profile Creation
 ![](images/ProfileCreatePage.jpg)
 
-# Event Creation
+### Event Creation
 ![](images/EventCreate.jpg)
 
-# Activity Directory
+### Activity Directory
 ![](images/ActivityDirectory.jpg)
 
-# Activity Info
+### Activity Info
 ![](images/ActivityPage.jpg)
+
+## Current state
 
 # Deployment
 
