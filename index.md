@@ -58,6 +58,8 @@ Coming soon...
 
 # Deployment
 
+[Here is a running deployment of our system on Galaxy](http://activityfinder.meteorapp.com/).
+
 # Development History
 
 ## Milestone 1: Mockup development
