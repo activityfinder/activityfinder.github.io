@@ -12,23 +12,23 @@
 # About Activity Finder
 Activity Finder is a meteor application allowing UH students to find activities and events to do with others on the island. Students can browse future events or activites in a directory and filter based upon their interests or location. Students will also be able to set up notifications when a new event or activity is posted.
 
-## Landing Page
+## [Landing Page](http://activityfinder.meteorapp.com/)
 
 ![](images/landing-page.png)
 
-## Profile Creation
+## [Profile Creation](http://activityfinder.meteorapp.com/ducey/profile)
 
 ![](images/profile-creation.png)
 
-## Directory
+## [Directory](http://activityfinder.meteorapp.com/ducey/filter)
 
 ![](images/directory.png)
 
-## Event Creation
+## [Event Creation](http://activityfinder.meteorapp.com/ducey/event)
 
 ![](images/event-creation.png)
 
-## Event Info
+## [Event Info](http://activityfinder.meteorapp.com/ducey/event-info)
 
 ![](images/event-info.png)
 
