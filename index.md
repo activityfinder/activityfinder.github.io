@@ -8,25 +8,17 @@
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
   
 # About Activity Finder
-Activity Finder is a meteor application allowing UH students to find activities and events to do with others on the island. Students will be able to set notifications when a new event or activity is posted. Students can filter activites based upon their interests or location. Students will also be able to view future events or activites on a calendar.
+Activity Finder is a meteor application allowing UH students to find activities and events to do with others on the island. Students can browse future events or activites in a directory and filter based upon their interests or location. Students will also be able to set up notifications when a new event or activity is posted. 
 
-## Project Mockup
-The following is the first rough draft of our overall project layout and structure. There are some changes and additions that might be possible in the future. This is only the starting point for the project.
+## Landing Page
 
-### Login Page
-![](images/LoginPage.jpg)
+## Profile Creation
 
-### Profile Creation
-![](images/ProfileCreatePage.jpg)
+## Directory
 
-### Event Creation
-![](images/EventCreate.jpg)
+## Event Creation
 
-### Activity Directory
-![](images/ActivityDirectory.jpg)
-
-### Activity Info
-![](images/ActivityPage.jpg)
+## Activity Info
 
 # Installation
 
@@ -53,5 +45,12 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 # Development History
 
 ## Milestone 1: Mockup development
-Milestone 1 was implemented as a [Github project M1](https://github.com/activityfinder/activityfinder/projects/1)
-## Milestone 2: Data model development 
+Milestone 1 started on November 7th, 2017 and ended on November 22nd, 2017.
+
+The goal for Milestone 1 was to provide a mockup of pages for the application.
+
+Milestone 1 consisted of 6 issues and was managed via [Github project M1](https://github.com/activityfinder/activityfinder/projects/1).
+
+## Milestone 2: Data model development
+
+Coming soon...
