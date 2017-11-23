@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 
 * [About Activity Finder](#about-activityfinder)
 * [Installation](#installation)
