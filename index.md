@@ -1,5 +1,3 @@
-# Activity Finder
-
 # Table of contents
 
 * [About Activity Finder](#about-activityfinder)
