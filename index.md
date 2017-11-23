@@ -2,10 +2,12 @@
 
 * [About Activity Finder](#about-activityfinder)
 * [Installation](#installation)
+* [Application design](#application-design)
 * [Deployment](#deployment)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
+* [Contact Us](#contact-us)
   
 # About Activity Finder
 Activity Finder is a meteor application allowing UH students to find activities and events to do with others on the island. Students can browse future events or activites in a directory and filter based upon their interests or location. Students will also be able to set up notifications when a new event or activity is posted.
@@ -40,6 +42,10 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.
 
+# Application design
+
+Coming soon...
+
 # Deployment
 
 # Development History
@@ -54,3 +60,8 @@ Milestone 1 consisted of 6 issues and was managed via [Github project M1](https:
 ## Milestone 2: Data model development
 
 Milestone 2 will be managed via [Github project M2](https://github.com/activityfinder/activityfinder/projects/2).
+
+# Contact Us
+* Joshua Ducey - ducey@hawaii.edu
+* Tyler Dorn - tdorn@hawaii.edu
+* Joshua Lam - jlam890@hawaii.edu
