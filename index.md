@@ -53,4 +53,4 @@ Milestone 1 consisted of 6 issues and was managed via [Github project M1](https:
 
 ## Milestone 2: Data model development
 
-Coming soon...
+Milestone 2 will be managed via [Github project M2](https://github.com/activityfinder/activityfinder/projects/2).
