@@ -8,7 +8,7 @@
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
   
 # About Activity Finder
-Activity Finder is a meteor application allowing UH students to find activities and events to do with others on the island. Students can browse future events or activites in a directory and filter based upon their interests or location. Students will also be able to set up notifications when a new event or activity is posted. 
+Activity Finder is a meteor application allowing UH students to find activities and events to do with others on the island. Students can browse future events or activites in a directory and filter based upon their interests or location. Students will also be able to set up notifications when a new event or activity is posted.
 
 ## Landing Page
 
@@ -24,7 +24,7 @@ Activity Finder is a meteor application allowing UH students to find activities 
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of BowFolios](https://github.com/bowfolios/bowfolios/archive/master.zip), or clone it using git.
+Second, [download a copy of Activity Finder](https://github.com/activityfinder/activityfinder/archive/master.zip), or clone it using git.
   
 Third, cd into the app/ directory and install libraries with:
 
@@ -47,7 +47,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 ## Milestone 1: Mockup development
 Milestone 1 started on November 7th, 2017 and ended on November 22nd, 2017.
 
-The goal for Milestone 1 was to provide a mockup of pages for the application.
+The goal for Milestone 1 was to provide a mockup of atleast four pages of the application, use Github issues and a Github project to manage the development of this release of the system and to adhere to Issue Driven Project Management practices.
 
 Milestone 1 consisted of 6 issues and was managed via [Github project M1](https://github.com/activityfinder/activityfinder/projects/1).
 
