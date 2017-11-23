@@ -14,13 +14,23 @@ Activity Finder is a meteor application allowing UH students to find activities 
 
 ## Landing Page
 
+![](images/landing-page.png)
+
 ## Profile Creation
+
+![](images/profile-creation.png)
 
 ## Directory
 
+![](images/directory.png)
+
 ## Event Creation
 
-## Activity Info
+![](images/event-creation.png)
+
+## Event Info
+
+![](images/event-info.png)
 
 # Installation
 
