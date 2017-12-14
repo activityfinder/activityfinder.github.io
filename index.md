@@ -28,7 +28,7 @@ UH students may login to Activity Finder by clicking on the login button. The UH
 
 ![](images/calendar.png)
 
-Students will be greeted with the calendar page after logging in. The calendar displays all events currently in the system.
+Students will be greeted with the calendar page after logging in. The calendar displays all events currently in the system. Red events are the ones that the current user is attending and blue events are other available events that the user can join.
 
 ### [Create Event](http://activityfinder.meteorapp.com/ducey/event)
 
@@ -40,7 +40,7 @@ Here users can create an event that will be displayed on the calendar and event 
 
 ![](images/event-list.png)
 
-Activity Finder also provides an event list page, where you can find out more about specific events. Also, students may join a specific event by clicking on the join button.
+Activity Finder also provides an event list page, where you can find out more about specific events. Also, students may join a specific event by clicking on the join button. They may also leave the event by clicking the leave button. Users can also send an email to the owner of the event to get more information. Lastly, users can delete their own events if they wish.
 
 # Installation
 
