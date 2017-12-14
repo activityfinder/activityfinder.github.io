@@ -18,27 +18,27 @@ Activity Finder is a meteor application allowing UH students to find activities 
 
 ### [Landing Page](http://activityfinder.meteorapp.com/)
 
-//place landing page image here
+![](images/landing-page2.png)
 
 UH students may login to Activity Finder by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 
-//place cas login image here
+![](images/UH-Login.png)
 
-### [Calendar](place link here)
+### [Calendar](http://activityfinder.meteorapp.com/ducey/calendar)
 
-//place image here
+![](images/calendar.png)
 
 Students will be greeted with the calendar page after logging in. The calendar displays all events currently in the system.
 
-### [Create Event](place link here)
+### [Create Event](http://activityfinder.meteorapp.com/ducey/event)
 
-//place image here
+![](images/event-creation2.png)
 
 Here users can create an event that will be displayed on the calendar and event list page.
 
-### [Event List](place link here)
+### [Event List](http://activityfinder.meteorapp.com/ducey/event-list)
 
-//place image here
+![](images/event-list.png)
 
 Activity Finder also provides an event list page, where you can find out more about specific events. Also, students may join a specific event by clicking on the join button.
 
