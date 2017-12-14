@@ -7,10 +7,11 @@
 * [Development History](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
-* [Community Feedback)(#community-feedback)
+* [Community Feedback](#community-feedback)
 * [Contact Us](#contact-us)
   
 # About Activity Finder
+
 Activity Finder is a meteor application allowing UH students to find activities to do with others on the island.
 
 ## User Guide
@@ -176,6 +177,7 @@ The [.gitignore](https://github.com/bowfolios/bowfolios/blob/master/.gitignore) 
 # Development History
 
 ## Milestone 1: Mockup development
+
 Milestone 1 started on November 7th, 2017 and ended on November 22nd, 2017.
 
 The goal for Milestone 1 was to provide a mockup of atleast four pages of the application, use Github issues and a Github project to manage the development of this release of the system and to adhere to Issue Driven Project Management practices.
@@ -189,6 +191,7 @@ Milestone 1 consisted of 6 issues and was managed via [Github project M1](https:
 ![](images/event-info.png)
 
 ## Milestone 2: Data model development
+
 Milestone 2 started on November 23rd, 2017 and ended on December 13th, 2017.
 
 The goal for Milestone 2 was to significantly improve the functionality and quality of your application beyond Milestone 1. We were also tasked to find at least five UH community members to to try out our system and provide feedback.
@@ -197,7 +200,8 @@ Milestone 1 consisted of 7 issues and was managed via [Github project M2](https:
 
 # Community Feedback
 
-## Group of five UH EE students
+## Responses from a group of five UH EE students:
+
 *"The landing page is very good, it's very inviting and makes me want to use the app."*
 
 *"I think it looks user-friendly."*
@@ -210,6 +214,7 @@ Milestone 1 consisted of 7 issues and was managed via [Github project M2](https:
 
 
 # Contact Us
+
 * Joshua Ducey - ducey@hawaii.edu
 * Tyler Dorn - tdorn@hawaii.edu
 * Joshua Lam - jlam890@hawaii.edu
